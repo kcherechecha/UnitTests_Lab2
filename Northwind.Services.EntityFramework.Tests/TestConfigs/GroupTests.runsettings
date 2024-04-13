@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+    <RunConfiguration>
+        <TargetFrameworkVersion>net6.0</TargetFrameworkVersion>
+    </RunConfiguration>
+    <NUnit>
+        <TestAssemblyPaths>C:\Users\ZenBook\source\repos\UnitTestLab\orders-lab2\Northwind.Services.EntityFramework.Tests\bin\Debug\net6.0\Northwind.Services.EntityFramework.Tests.dll</TestAssemblyPaths>
+        <test-fixture>
+            <include category="AddTest" />
+            <exclude category="RemoveTest" />
+        </test-fixture>
+    </NUnit>
+</RunSettings>
